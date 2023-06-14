@@ -84,7 +84,8 @@ if (has('termguicolors') && &termguicolors) || has('gui_running')
   hi VertSplit guifg=#393b44 guibg=#393b44 gui=NONE cterm=NONE
   hi WildMenu guifg=#dfdfe0 guibg=#0f5bca gui=NONE cterm=NONE
   hi IncSearch guifg=#292a30 guibg=#fef937 gui=NONE cterm=NONE
-  hi Search guifg=#dfdfe0 guibg=#414453 gui=NONE cterm=NONE
+  hi Search guifg=#292a30 guibg=#fef937 gui=NONE cterm=NONE
+  " hi Search guifg=#dfdfe0 guibg=#414453 gui=NONE cterm=NONE
   hi Visual guifg=NONE guibg=#414453 gui=NONE cterm=NONE
   hi DiffAdd guifg=#acf2e4 guibg=#243330 gui=NONE cterm=NONE
   hi DiffChange guifg=#ffa14f guibg=NONE gui=NONE cterm=NONE
